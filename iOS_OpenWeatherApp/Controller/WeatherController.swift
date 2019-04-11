@@ -1,9 +1,8 @@
 //
 //  ViewController.swift
-//  iOS_Rahul_Panzade_Assignment_For_Webonise
+//  iOS_OpenWeatherApp
 //
 //  Created by Rahul Panzade on 10/04/19.
-//  Copyright © 2019 Omni-Bridge. All rights reserved.
 //
 
 import UIKit

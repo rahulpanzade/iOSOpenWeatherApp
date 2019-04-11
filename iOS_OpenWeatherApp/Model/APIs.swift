@@ -1,9 +1,8 @@
 //
 //  APIs.swift
-//M-commerce 
+//  iOS_OpenWeatherApp
 //
-//  Created by macbook pro on 19/06/18.
-//  Copyright © 2018 Omni-Bridge. All rights reserved.
+//  Created by Rahul Panzade on 10/04/19.
 //
 
 import Foundation
